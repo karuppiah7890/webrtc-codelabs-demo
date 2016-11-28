@@ -1,0 +1,17 @@
+{
+  "name": "expressserver",
+  "version": "1.0.0",
+  "description": "Server for webrtc application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Karuppiah",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "1.2.0"
+  },
+  "devDependencies": {}
+}
